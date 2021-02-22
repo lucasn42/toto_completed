@@ -1,4 +1,3 @@
-test_lib.py
 from toto.lib import who_am_i
 
 
